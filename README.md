@@ -38,7 +38,7 @@
 
 ##  🗂️ 이전 프로젝트
 
-- Hotel booking site: 호텔 예약 사이트 개발
+- Stay Connect: 호텔 예약 사이트 개발
   - 기술 스택: spring boot, docker, docker-compose, AWS, thymeleaf, mysql, JPA
   - 담당 업무: mainPage FE 구현, 결제 api CRUD, myPage FE 구현, 개인정보수정 CRUD
   - [프로젝트 링크](https://github.com/caterpillar-team/STAY_CONNECT.git)
@@ -52,7 +52,7 @@
 
 ##  💡 기술 스택 💡
 
-
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>CSS3</title><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.565-2.438L1.5 0zm17.09 4.413L5.41 4.41l.213 2.622 10.125.002-.255 2.716h-6.64l.24 2.573h6.182l-.366 3.523-2.91.804-2.956-.81-.188-2.11h-2.61l.29 3.855L12 19.288l5.373-1.53L18.59 4.414z"/></svg>
 
 <br>
 
