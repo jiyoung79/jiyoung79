@@ -51,6 +51,6 @@
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyoung79)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jiyoug79)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=jiyoung79&show_icons=true">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
