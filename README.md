@@ -25,22 +25,32 @@
   - [클라이언트 링크](https://github.com/caterpillar-butler/foodie-finder-client.git)
   - [서버 링크](https://github.com/caterpillar-butler/foodie-finder-server.git)
 
+
+##  이전 프로젝트
+
+- Hotel booking site: 호텔 예약 사이트 개발
+  - 기술 스택: spring boot, docker, docker-compose, AWS, thymeleaf, mysql, JPA
+  - 담당 업무: mainPage FE 구현, 결제 api CRUD, myPage FE 구현, 개인정보수정 CRUD
+  - [프로젝트 링크](https://github.com/caterpillar-team/STAY_CONNECT.git)
+  - [배포 링크](https://stayconnect.shop)
+
 <details>
 <summary>
-  💡 기술 스택
+  💡 기술 스택 💡
 </summary>
+
   
   
 </details>
 
 <details>
 <summary>
-  💻 가장 많이 사용한 언어
+  💻 가장 많이 사용한 언어 💻
 </summary>
   
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyoung79)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=jiyoug79)](https://git.io/streak-stats)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
