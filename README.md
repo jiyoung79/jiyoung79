@@ -21,7 +21,7 @@
 
 </br>
 
-</hr>
+<hr/>
 
 ##  🗂️ 현재 진행중인 프로젝트
 
@@ -40,7 +40,7 @@
   - [프로젝트 링크](https://github.com/caterpillar-team/STAY_CONNECT.git)
   - [배포 링크](https://stayconnect.shop)
 
-</hr>
+<hr/>
 
 ##  💡 기술 스택 💡
 
