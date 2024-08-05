@@ -116,7 +116,8 @@ Spring Boot는 안정적인 대규모 애플리케이션 개발에 유리합니�
 
 ## 📝 Study Log
 
-[![Notion]([http://cfile24.uf.tistory.com/image/2444873B57E257821FA2AE](https://www.askedtech.com/api/kords/admin/product/image.jpg?type=org&id=31790))]([https://glowing-windscreen-f69.notion.site/9ab0b9f9c33640689b07920514af02fc?pvs=4])
+[![Notion](https://www.askedtech.com/api/kords/admin/product/image.jpg?type=org&id=31790)](https://glowing-windscreen-f69.notion.site/9ab0b9f9c33640689b07920514af02fc?pvs=4)
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CA96EC&height=150&section=footer" />
