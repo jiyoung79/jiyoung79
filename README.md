@@ -54,7 +54,7 @@ Spring Boot는 안정적인 대규모 애플리케이션 개발에 유리합니�
 
 ##  🗂️  이전 프로젝트
 
-- Stay Connect: 호텔 예약 사이트 개발
+- Stay Connect: 지도를 기반으로 숙소 위치를 제공하며 사용자와 실시간 채팅이 가능한 숙박업소 예약 웹개발
   - 기술 스택: spring boot, docker, docker-compose, AWS, thymeleaf, mysql, JPA
   - 담당 업무: mainPage FE 구현, 결제 api CRUD, myPage FE 구현, 개인정보수정 CRUD
   - [프로젝트 링크](https://github.com/caterpillar-team/STAY_CONNECT.git)
@@ -108,6 +108,16 @@ Spring Boot는 안정적인 대규모 애플리케이션 개발에 유리합니�
 
 ##  📨 Contact
 
+- 이메일 : kangjiyoung9879@gmail.com
 
+<br>
+<hr/>
+<br>
+
+## Study Log
+
+[Notion](https://glowing-windscreen-f69.notion.site/9ab0b9f9c33640689b07920514af02fc?pvs=4)
+
+- 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CA96EC&height=150&section=footer" />
