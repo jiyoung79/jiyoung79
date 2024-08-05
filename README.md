@@ -34,10 +34,10 @@
   - [프로젝트 링크](https://github.com/caterpillar-team/STAY_CONNECT.git)
   - [배포 링크](https://stayconnect.shop)
 
-## <details>
-<summary>
-  💡 기술 스택 💡
-</summary>
+</br>
+
+##  💡 기술 스택 💡
+
 
   
   
