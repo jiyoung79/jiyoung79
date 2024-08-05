@@ -3,9 +3,11 @@
 # 안녕하세요! 강지영입니다👩🏻‍💻
 
 
+
+
 <details>
 <summary>
-  Top Languages
+  👌 Most Used Languages
 </summary>
   
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyoung79)](https://github.com/anuraghazra/github-readme-stats)
