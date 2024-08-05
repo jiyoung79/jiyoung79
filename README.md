@@ -15,9 +15,16 @@
 효율적인 로직을 구축할 수 있는 백엔드 개발자 가 되고싶습니다.
 ```
 
+#  현재 작업 중인 프로젝트
+
+- Foodie Finder: 미식가들을 위한 SNS 서비스
+  - 기술 스택: Spring Boot, React, nginx, Docker, Docker-Compose, GitHub Actions, MySQL, Redis
+  - 클라이언트 링크
+  - 서버 링크
+
 <details>
 <summary>
-  👌 기술 스택
+  💡 기술 스택
 </summary>
   
   
@@ -25,7 +32,7 @@
 
 <details>
 <summary>
-  👌 가장 많이 사용한 언어
+  💻 가장 많이 사용한 언어
 </summary>
   
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyoung79)](https://github.com/anuraghazra/github-readme-stats)
