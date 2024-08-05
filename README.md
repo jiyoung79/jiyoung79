@@ -18,7 +18,7 @@
 > 효율적인 로직을 구축할 수 있는 백엔드 개발자 가 되고싶습니다.
 
 
-##  현재 진행중인 프로젝트
+##  🗂️ 현재 진행중인 프로젝트
 
 - Foodie Finder: 미식가들을 위한 SNS 서비스
   - 기술 스택: Spring Boot, React, nginx, Docker, Docker-Compose, GitHub Actions, MySQL, Redis
@@ -26,7 +26,7 @@
   - [서버 링크](https://github.com/caterpillar-butler/foodie-finder-server.git)
 
 
-##  이전 프로젝트
+##  🗂️ 이전 프로젝트
 
 - Hotel booking site: 호텔 예약 사이트 개발
   - 기술 스택: spring boot, docker, docker-compose, AWS, thymeleaf, mysql, JPA
