@@ -12,11 +12,15 @@
 기능 구현이 되는 즉 결과가 한 눈에 직접적으로 보이는 것이 매력적인 부분이라고 생각하여 이 직군을 선택하게 되었습니다.
 ```
 
+</br>
+
 ## 💪 목표
 
 > 🙂 사용자에 맞춰 실용적인 UI를 구축할 수 있는 프론트엔드 개발자
 > 효율적인 로직을 구축할 수 있는 백엔드 개발자 가 되고싶습니다.
 
+</br>
+</hr>
 
 ##  🗂️ 현재 진행중인 프로젝트
 
@@ -25,6 +29,7 @@
   - [클라이언트 링크](https://github.com/caterpillar-butler/foodie-finder-client.git)
   - [서버 링크](https://github.com/caterpillar-butler/foodie-finder-server.git)
 
+</br>
 
 ##  🗂️ 이전 프로젝트
 
@@ -34,7 +39,7 @@
   - [프로젝트 링크](https://github.com/caterpillar-team/STAY_CONNECT.git)
   - [배포 링크](https://stayconnect.shop)
 
-</br>
+</hr>
 
 ##  💡 기술 스택 💡
 
