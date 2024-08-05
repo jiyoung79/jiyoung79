@@ -4,6 +4,8 @@
 
 # 안녕하세요! 강지영입니다👩🏻‍💻
 
+</div>
+
 ```
 🙂 배움에 대한 갈증이 있는 편이라 끊임없는 공부 및 자기개발을 통해 노력에 대한 가치를 스스로 높힐 수 있는 ‘개발’이라는 직군이 큰 장점으로 다가왔습니다.
 또한 제가 짠 코드 한 줄로 인해 화면 구성이 바뀌고,
@@ -29,6 +31,6 @@
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyoung79)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
-</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
