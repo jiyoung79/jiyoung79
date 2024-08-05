@@ -2,7 +2,7 @@
 
 <div align=center>
 
-# 안녕하세요! 강지영입니다👩🏻‍💻
+# 안녕하세요! 강지영입니다 👩🏻‍💻
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <br>
 
-## 💪 목표
+## 💪  목표
 
 
 #### 🧐 사용자에 맞춰 실용적인 UI를 구축할 수 있는 프론트엔드 개발자,
@@ -25,12 +25,13 @@
 
 <br>
 
-## 🤓 HELP !
+## 🤓  HELP !
 
 
 - Node와 MongoDB, Spring Boot를 활용한 협업 프로젝트를 통해 강력하고 유연한 웹 애플리케이션을 구축하고자 합니다.
 ```
-❔❓ 이유 : Node.js와 MongoDB는 빠르고 확장 가능한 실시간 백엔드 개발에 적합하고,
+❓ 이유 ❓
+Node.js와 MongoDB는 빠르고 확장 가능한 실시간 백엔드 개발에 적합하고,
 Spring Boot는 안정적인 대규모 애플리케이션 개발에 유리합니다.
 두 기술을 기능에 따라 분리하고 RESTful API로 통합하여 각각의 장점을 활용할 수 있기때문에
 위와 같은 기술을 사용하여 프로젝트를 진행해보고 싶습니다.
@@ -42,7 +43,7 @@ Spring Boot는 안정적인 대규모 애플리케이션 개발에 유리합니�
 
 <br>
 
-##  🗂️ 현재 진행중인 프로젝트
+##  🗂️  현재 진행중인 프로젝트
 
 - Foodie Finder: 미식가들을 위한 SNS 서비스
   - 기술 스택: Spring Boot, React, nginx, Docker, Docker-Compose, GitHub Actions, MySQL, Redis
@@ -51,7 +52,7 @@ Spring Boot는 안정적인 대규모 애플리케이션 개발에 유리합니�
 
 <br>
 
-##  🗂️ 이전 프로젝트
+##  🗂️  이전 프로젝트
 
 - Stay Connect: 호텔 예약 사이트 개발
   - 기술 스택: spring boot, docker, docker-compose, AWS, thymeleaf, mysql, JPA
@@ -84,7 +85,7 @@ Spring Boot는 안정적인 대규모 애플리케이션 개발에 유리합니�
 
 <details>
 <summary>
-  💻 가장 많이 사용한 언어 💻
+  💻  가장 많이 사용한 언어  💻
 </summary>
   
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyoung79)](https://github.com/anuraghazra/github-readme-stats)
@@ -94,7 +95,7 @@ Spring Boot는 안정적인 대규모 애플리케이션 개발에 유리합니�
 
 <details>
 <summary>
-  💻 GitHub Stats 💻
+  💻  GitHub Stats  💻
 </summary>
   
    <img src="https://github-readme-stats.vercel.app/api?username=jiyoung79&show_icons=true">
